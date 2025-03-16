@@ -57,10 +57,10 @@
 </p>
 
 ---
-
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noobcoder1906&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noobcoder1906&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobcoder1906&theme=radical" height="180px"/>
 </p>
 
 
@@ -68,7 +68,7 @@
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaisabarishH&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noobcoder1906&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 ---
