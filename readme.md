@@ -78,15 +78,6 @@
   <img src="https://github.com/noobcoder1906/noobcoder1906/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-
-
----
-
-## 💻 **Coding Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=noobcoder1906&theme=radical&layout=compact" alt="WakaTime Stats" />
-</p>
-
 ---
 
 
