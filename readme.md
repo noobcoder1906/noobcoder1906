@@ -88,13 +88,6 @@
 
 ---
 
-## 🌟 **Visitor Count**
-<p align="center">
-  <img src="https://profile-counter.glitch.me/noobcoder1906/count.svg" alt="Visitor Count" />
-</p>
-
----
-
 ## 🌍 **Let's Connect!**
 <p align="center">
   <a href="https://linkedin.com/in/saisabarishh">
