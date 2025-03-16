@@ -9,10 +9,10 @@
 
 ## 🚀 **About Me**
 - 🎓 **B.Tech CSE @ VIT Chennai**  
-- 💡 Passionate about **AI/ML, Web Development, Blockchain, and Cloud Technologies**  
-- 💻 Skilled in **Data Structures, Algorithms, and Object-Oriented Programming**  
-- 🔥 Exploring **Investment Banking Tech & Financial Projects**  
-- 🌱 Learning **Three.js, Smart Contracts, and System Design**  
+- 💻 Skilled in **Building Full-Stack Web Applications & Blockchain Solutions**  
+- 🔥 Exploring **Investment Banking Tech & FINTECH Projects**  
+- 🌱 Learning **Devops and System Design**  
+ 
 
 ---
 
