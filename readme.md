@@ -78,11 +78,7 @@
   <img src="https://github.com/noobcoder1906/noobcoder1906/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<div align="center">
-  
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=noobcoder1906&theme=radical&hide_border=true)
-  
-</div>
+
 
 ---
 
@@ -93,17 +89,6 @@
 
 ---
 
-## 📌 **Featured Projects**
-<p align="center">
-  <a href="https://github.com/noobcoder1906/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noobcoder1906&repo=project-name&theme=radical" />
-  </a>
-  <a href="https://github.com/noobcoder1906/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noobcoder1906&repo=another-project&theme=radical" />
-  </a>
-</p>
-
----
 
 ## 🔥 **Top Languages**
 <p align="center">
