@@ -57,12 +57,12 @@
 </p>
 
 ---
+
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noobcoder1906&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobcoder1906&theme=radical" height="180px"/>
 </p>
-
 
 ---
 
@@ -73,13 +73,48 @@
 
 ---
 
+## 🐍 **Contribution Snake**
+<p align="center">
+  <img src="https://github.com/noobcoder1906/noobcoder1906/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
+<div align="center">
+  
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=noobcoder1906&theme=radical&hide_border=true)
+  
+</div>
+
+---
+
+## 💻 **Coding Activity**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=noobcoder1906&theme=radical&layout=compact" alt="WakaTime Stats" />
+</p>
+
+---
+
+## 📌 **Featured Projects**
+<p align="center">
+  <a href="https://github.com/noobcoder1906/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noobcoder1906&repo=project-name&theme=radical" />
+  </a>
+  <a href="https://github.com/noobcoder1906/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noobcoder1906&repo=another-project&theme=radical" />
+  </a>
+</p>
 
 ---
 
 ## 🔥 **Top Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobcoder1906&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌟 **Visitor Count**
+<p align="center">
+  <img src="https://profile-counter.glitch.me/noobcoder1906/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -99,4 +134,12 @@
 
 ---
 
-✨ **Let's keep building!** 🚀  
+<details>
+  <summary>📊 <b>More Stats</b></summary>
+  <br>
+  <img src="https://metrics.lecoq.io/noobcoder1906?template=classic&config.timezone=Asia%2FKolkata" alt="Detailed GitHub Metrics" />
+</details>
+
+---
+
+✨ **Let's keep building!** 🚀
