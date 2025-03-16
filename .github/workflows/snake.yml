@@ -21,17 +21,8 @@ jobs:
       - name: Debug Directory
         run: ls -lah dist  # Check if the file exists
 
-      - name: Set proper file permissions
-        run: chmod +x dist/github-contribution-grid-snake.svg
-
       - name: Move Snake Animation
         run: mv dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
-
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: github-contribution-grid-snake.svg
 
       - name: Commit and Push Changes
         run: |
