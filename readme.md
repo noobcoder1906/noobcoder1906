@@ -75,14 +75,14 @@
 
 ## 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://github.com/SaisabarishH/SaisabarishH/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/noobcoder1906/noobcoder1906/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🔥 **Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaisabarishH&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobcoder1906&layout=compact&theme=radical" />
 </p>
 
 ---
