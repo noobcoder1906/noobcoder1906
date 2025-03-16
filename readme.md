@@ -7,8 +7,8 @@
 
 ---
 
-### 🚀 **About Me**
-- 🎓 3rd-year **B.Tech Computer Science & Engineering** at **VIT Chennai**  
+## 🚀 **About Me**
+- 🎓 **B.Tech CSE @ VIT Chennai**  
 - 💡 Passionate about **AI/ML, Web Development, Blockchain, and Cloud Technologies**  
 - 💻 Skilled in **Data Structures, Algorithms, and Object-Oriented Programming**  
 - 🔥 Exploring **Investment Banking Tech & Financial Projects**  
@@ -16,43 +16,49 @@
 
 ---
 
-### 🛠 **Tech Stack & Tools**
-  
-#### 🚀 **Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
-![Material-UI](https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=material-ui)  
+## 🛠 **Tech Stack & Tools**
+### 🚀 **Frontend**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
 
-#### 🛠 **Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)  
+### ⚡ **Backend & Database**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-#### 🔗 **Blockchain & Web3**  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)  
-![Hardhat](https://img.shields.io/badge/-Hardhat-f4c430?style=flat-square&logo=hardhat)  
-![Metamask](https://img.shields.io/badge/-MetaMask-E2761B?style=flat-square&logo=metamask)  
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs)  
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=javascript)  
-![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat-square&logo=polygon)  
+### 🔗 **Blockchain & Web3**
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-f4c430?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+</p>
 
-#### 🔧 **Tools & Others**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
-![Motion](https://img.shields.io/badge/-Motion-F05A27?style=flat-square&logo=framer)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)  
+### 🔧 **Tools & DevOps**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaisabarishH&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaisabarishH&theme=radical" height="180px"/>
@@ -60,7 +66,7 @@
 
 ---
 
-### 🚀 **Connect with Me**
+## 🌍 **Let's Connect!**
 <p align="center">
   <a href="https://linkedin.com/in/saisabarishh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
