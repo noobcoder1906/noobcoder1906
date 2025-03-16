@@ -2,7 +2,7 @@
 <h3 align="center">🚀 3rd-year CSE Student | Web Dev | Blockchain | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Web+Developer+|+Blockchain+Developer;FinTech;Investment+Banking+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer+|+Blockchain+Developer;FinTech;Investment+Banking+Tech+Explorer" />
 </p>
 
 ---
