@@ -6,7 +6,7 @@
 </p>
 
 ---
-![Contribution Snake](https://github.com/noobcoder1906E/noobcoder1906/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/noobcoder1906/noobcoder1906/output/github-contribution-grid-snake.svg)
 
 ## 🚀 **About Me**
 - 🎓 **B.Tech CSE @ VIT Chennai**  
