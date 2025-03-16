@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H Saisabarish</h1>
-<h3 align="center">🚀 3rd-year CSE Student | Web Dev | AI/ML | Blockchain | Cloud Enthusiast</h3>
+<h3 align="center">🚀 3rd-year CSE Student | Web Dev | Blockchain | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Developer+|+AI/ML+Enthusiast;Full+Stack+Web+Developer+|+Blockchain+Explorer;Investment+Banking+Tech+Explorer" />
