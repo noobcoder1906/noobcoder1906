@@ -73,7 +73,6 @@
 
 ---
 
-![Contribution Snake](https://github.com/noobcoder1906/noobcoder1906/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
