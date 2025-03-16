@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm H Saisabarish</h1>
-<h3 align="center">🚀 3rd-year CSE Student | Web Dev | AI/ML | Cloud Enthusiast</h3>
+<h3 align="center">🚀 3rd-year CSE Student | Web Dev | AI/ML | Blockchain | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Developer+|+AI/ML+Enthusiast;Full+Stack+Web+Developer+|+Cloud+Tech+Lover;Investment+Banking+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Developer+|+AI/ML+Enthusiast;Full+Stack+Web+Developer+|+Blockchain+Explorer;Investment+Banking+Tech+Explorer" />
 </p>
 
 ---
 
 ### 🚀 **About Me**
 - 🎓 3rd-year **B.Tech Computer Science & Engineering** at **VIT Chennai**  
-- 💡 Passionate about **AI/ML, Web Development, and Cloud Technologies**  
+- 💡 Passionate about **AI/ML, Web Development, Blockchain, and Cloud Technologies**  
 - 💻 Skilled in **Data Structures, Algorithms, and Object-Oriented Programming**  
 - 🔥 Exploring **Investment Banking Tech & Financial Projects**  
-- 🌱 Learning **Three.js, Blockchain, and System Design**  
+- 🌱 Learning **Three.js, Smart Contracts, and System Design**  
 
 ---
 
@@ -32,12 +32,23 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)  
 
+#### 🔗 **Blockchain & Web3**  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)  
+![Hardhat](https://img.shields.io/badge/-Hardhat-f4c430?style=flat-square&logo=hardhat)  
+![Metamask](https://img.shields.io/badge/-MetaMask-E2761B?style=flat-square&logo=metamask)  
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs)  
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=javascript)  
+![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat-square&logo=polygon)  
+
 #### 🔧 **Tools & Others**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
 ![Motion](https://img.shields.io/badge/-Motion-F05A27?style=flat-square&logo=framer)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)  
 
 ---
 
