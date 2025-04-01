@@ -103,11 +103,7 @@
 
 ---
 
-<details>
-  <summary>📊 <b>More Stats</b></summary>
-  <br>
-  <img src="https://metrics.lecoq.io/noobcoder1906?template=classic&config.timezone=Asia%2FKolkata" alt="Detailed GitHub Metrics" />
-</details>
+
 
 ---
 
