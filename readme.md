@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm H Saisabarish</h1>
-<h3 align="center">🚀 3rd-year CSE Student | Web Dev | Blockchain | Cloud Enthusiast</h3>
+<h3 align="center">🚀 Final year CSE Student | Full Stack Dev | Blockchain |</h3>
+<h3 align="center">🚀 AIML Intern at Reliance Jio Health </h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+|+Blockchain+|FinTech;Investment+Banking+Tech+Explorer" />
@@ -10,8 +12,8 @@
 ## 🚀 **About Me**
 - 🎓 **B.Tech CSE @ VIT Chennai**  
 - 💻 Skilled in **Full-Stack Web & Blockchain Development**  
-- 🔥 Exploring **Investment Banking Tech & FINTECH Projects**  
-- 🌱 Learning **DevOps & System Design**  
+- 🔥 Exploring **FINTECH Projects**  
+- 🌱 Learning **System Design**  
 - 🏆 **Open-source Contributor & Hackathon Enthusiast**  
 
 ---
