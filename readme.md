@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm H Saisabarish</h1>
 <h3 align="center">🚀 Final year CSE Student | Full Stack Dev | Blockchain |</h3>
-<h3 align="center">🚀 AIML Intern at Reliance Jio Health </h3>
+<h3 align="center">🚀 AIML Intern at Reliance Jio Health division</h3>
 
 
 <p align="center">
